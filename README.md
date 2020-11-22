@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-🔭 I’m currently working on 5G / 6G intelligent networks
+🔭 I'm currently working on 5G and 6G intelligent networks  
 
 <!--
 
