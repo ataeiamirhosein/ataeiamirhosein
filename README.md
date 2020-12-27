@@ -3,7 +3,11 @@
 
 🔭 I'm currently working on 5G and 6G intelligent networks  
 
+resume:
 https://resume.github.io/?ataeiamirhosein
+
+website:
+https://www.iotco.net/en
 
 <!--
 
